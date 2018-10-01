@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The power of voice
+title: The power of your voice
 ---
-![IImage_loud](/images/loud.jpeg)
+![Image_loud](images/loud.jpeg)
 
 Last week I had to experience two long minutes of public speaking – I had to give a quick presentation.
 
