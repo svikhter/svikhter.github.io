@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The power of your voice
+title: The power of voice
 ---
 ![Image_loud](images/loud.jpeg)
 
