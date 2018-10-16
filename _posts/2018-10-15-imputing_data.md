@@ -26,4 +26,4 @@ title: Imputing Data
     train_df[['Age','Fare']] = imr.fit_transform(train_df[['Age','Fare']])
 
 
-  There is a general rule that we should impute as little as possible. Here I completely agree.
+  There is a general rule that we should impute as little as possible. At least here I completely agree.
