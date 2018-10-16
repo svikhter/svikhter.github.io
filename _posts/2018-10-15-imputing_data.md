@@ -15,15 +15,15 @@ title: Imputing Data
 
   Numpy:
 
-  import numpy as np
-  mean_ages = titanic.groupby(['Sex', 'Pclass'])['Age'].transform(lambda x: np.nanmean(x))
-  titanic['ImputedAge'] = mean_ages
+    import numpy as np
+    mean_ages = titanic.groupby(['Sex', 'Pclass'])['Age'].transform(lambda x: np.nanmean(x))
+    titanic['ImputedAge'] = mean_ages
 
   Sklearn:  
 
-  from sklearn.preprocessing import Imputer
-  imr = Imputer(missing_values='NaN', strategy='mean', axis=0)
-  train_df[['Age','Fare']] = imr.fit_transform(train_df[['Age','Fare']])
+    from sklearn.preprocessing import Imputer
+    imr = Imputer(missing_values='NaN', strategy='mean', axis=0)
+    train_df[['Age','Fare']] = imr.fit_transform(train_df[['Age','Fare']])
 
 
   There is a general rule that we should impute as little as possible. Here I completely agree.
