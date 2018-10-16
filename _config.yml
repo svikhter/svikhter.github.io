@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               A Test Post
-tagline:             First Data Science Blog
-url:                 http://zwmiller.github.io
+title:               Metis Data Science Bootcamp
+tagline:             Student First Blog
+url:                 http://svikhter.github.io
 paginate:            2
 baseurl:             ""
 
