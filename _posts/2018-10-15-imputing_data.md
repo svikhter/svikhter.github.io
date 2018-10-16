@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Imputing Data
+---
 
   I spent most of my prior career working in descriptive analytics. On that side of the analytical word we transform, aggregate, extract, load, and visualize the data, and provide business with historical insight. We then present data in the format easily understandable by the business audience, such as reports and dashboards.
 
