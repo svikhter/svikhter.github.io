@@ -2,7 +2,7 @@
 layout: post
 title: Was the data too good to model?
 ---
-![Image_portobello](images/potrobello.jpg)
+![Image_portobello](images/potrobello.jpeg)
 
 
 *Why mushrooms?*  
